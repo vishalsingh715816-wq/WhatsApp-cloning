@@ -1,4 +1,4 @@
-name: Deploy PWA Starter to GitHub Pages
+vishal singh whatsapp cloning.name: Deploy PWA Starter to GitHub Pages
 
 on:
   workflow_dispatch:
